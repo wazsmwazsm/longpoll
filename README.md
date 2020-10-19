@@ -1,4 +1,6 @@
 # longpoll
+[![Build Status](https://travis-ci.org/wazsmwazsm/longpoll.svg?branch=master)](https://travis-ci.org/wazsmwazsm/longpoll)
+
 A golang http long polling lib
 
 ## 简介
